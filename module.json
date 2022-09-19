@@ -70,10 +70,10 @@
     "css/editor.css",
     "css/slide-transition.css"
   ],
-  "url": "https://github.com/ironmonk88/monks-enhanced-journal",
-  "download": "https://github.com/ironmonk88/monks-enhanced-journal/archive/10.1.zip",
-  "manifest": "https://github.com/ironmonk88/monks-enhanced-journal/releases/latest/download/module.json",
-  "bugs": "https://github.com/ironmonk88/monks-enhanced-journal/issues",
+  "url": "https://github.com/atallison/monks-enhanced-journal",
+  "download": "https://github.com/atallison/monks-enhanced-journal/archive/10.1.zip",
+  "manifest": "https://github.com/atallison/monks-enhanced-journal/releases/latest/download/module.json",
+  "bugs": "https://github.com/atallison/monks-enhanced-journal/issues",
   "allowBugReporter": true,
   "id": "monks-enhanced-journal",
   "compatibility": {
