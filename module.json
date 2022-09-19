@@ -75,7 +75,7 @@
   "manifest": "https://github.com/atallison/monks-enhanced-journal/releases/latest/download/module.json",
   "bugs": "https://github.com/atallison/monks-enhanced-journal/issues",
   "allowBugReporter": true,
-  "id": "monks-enhanced-journal",
+  "id": "monks-enhanced-journal-vT",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
